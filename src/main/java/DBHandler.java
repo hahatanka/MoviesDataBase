@@ -13,7 +13,7 @@ import java.sql.SQLException;
 
 }
 
-//            String query = "CREATE TABLE products1" +
+//     /       String query = "CREATE TABLE products1" +
 //                    "(id int primary key auto_increment," +
 //                    "name varchar(30) NOT NULL," +
 //                    "price float NOT NULL," +
