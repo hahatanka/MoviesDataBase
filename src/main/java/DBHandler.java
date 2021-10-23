@@ -7,13 +7,13 @@ import java.sql.SQLException;
 
         String connectionUrl = "jdbc:mysql://localhost:3306/MOVIE";
         String user = "root";
-        String pass = "butjka12";
+        String pass = " ";
 
         private static Connection connection;
 
 }
 
-//     /       String query = "CREATE TABLE products1" +
+//          String query = "CREATE TABLE products1" +
 //                    "(id int primary key auto_increment," +
 //                    "name varchar(30) NOT NULL," +
 //                    "price float NOT NULL," +
